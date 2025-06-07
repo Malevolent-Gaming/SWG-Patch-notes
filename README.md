@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69a62a83-4bc1-480d-a931-6ae34afed057"/>
 </p!>
-![CnetBanner-small](https://github.com/user-attachments/assets/69a62a83-4bc1-480d-a931-6ae34afed057)
+
 
 
 # Website Feature Added
