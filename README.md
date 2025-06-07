@@ -3,7 +3,8 @@
   <img src="https://github.com/user-attachments/assets/69a62a83-4bc1-480d-a931-6ae34afed057"/>
 </p!>
 
-# Quality of Life changes
+# Update 0.1.1
+## Quality of Life changes
 Made some changes to help improve the player experience
 ## Buffs
 - Medic and Entertainer Buffs now persist after death!
