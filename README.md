@@ -1,7 +1,7 @@
 # Star Wars Galaxies - Ancient Empire Update Notes
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
-</p!>
+</p!> -->
 
 
 # Update 0.1.1
