@@ -24,8 +24,8 @@ From the bustling plazas of Theed to the dark corridors of Coronet, Imperial ban
 
 Whether you serve the Emperor or support the Rebellion, there's action for all!
 
-### :date: Event Duration: July 1st – August 4th
-### :round_pushpin: Locations: Theed for Imperials  & Coronet for Rebels
+### Event Duration: July 1st – August 4th
+### Locations: Theed for Imperials  & Coronet for Rebels
 Put on your uniforms, polish your armor, and prepare for glory!
 ### Long live the Empire!
 -------------------------------------------------------------------------------
