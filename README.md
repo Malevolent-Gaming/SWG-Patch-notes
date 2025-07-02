@@ -3,6 +3,31 @@
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
 
+# :empire:  EMPIRE DAY IS HERE! :empire: 
+A long-standing tradition of Imperial might and galactic pride!
+
+Join us  as we celebrate Empire Day, the anniversary of the Emperor’s rise to power!
+From the bustling plazas of Theed to the dark corridors of Coronet, Imperial banners fly high and fireworks light up the night sky.
+
+## Activities Include:
+• Imperial & Rebel-themed quests
+• Exclusive Empire Day rewards
+• XP bonuses and rare loot
+• City invasions and defense events
+• Live fireworks shows in major cities
+• Imperial PR droids handing out loyalty missions
+
+## NEW Rewards!
+• Imperial & Rebel BARC speeders!
+• Imperial and Rebel Spire House Deeds!
+
+:military_medal: Whether you serve the Emperor or support the Rebellion, there's action for all!
+
+### :date: Event Duration: July 1st – August 4th
+### :round_pushpin: Locations: Theed for Imperials  & Coronet for Rebels
+Put on your uniforms, polish your armor, and prepare for glory!
+### Long live the Empire! :empirespin:
+-------------------------------------------------------------------------------
 
 # Update 0.1.1
 ## Quality of Life changes
