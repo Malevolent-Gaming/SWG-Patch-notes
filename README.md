@@ -2,6 +2,7 @@
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
+![image](https://github.com/user-attachments/assets/11ee9320-a760-4489-9d0f-feafe1d1c5b7)
 
 # EMPIRE DAY IS HERE! 
 A long-standing tradition of Imperial might and galactic pride!
