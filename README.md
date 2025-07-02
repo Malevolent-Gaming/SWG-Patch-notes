@@ -10,16 +10,16 @@ Join us  as we celebrate Empire Day, the anniversary of the Emperor’s rise to 
 From the bustling plazas of Theed to the dark corridors of Coronet, Imperial banners fly high and fireworks light up the night sky.
 
 ## Activities Include:
-• Imperial & Rebel-themed quests
-• Exclusive Empire Day rewards
-• XP bonuses and rare loot
-• City invasions and defense events
-• Live fireworks shows in major cities
-• Imperial PR droids handing out loyalty missions
+- Imperial & Rebel-themed quests
+- Exclusive Empire Day rewards
+- XP bonuses and rare loot
+- City invasions and defense events
+- Live fireworks shows in major cities
+- Imperial PR droids handing out loyalty missions
 
 ## NEW Rewards!
-• Imperial & Rebel BARC speeders!
-• Imperial and Rebel Spire House Deeds!
+- Imperial & Rebel BARC speeders!
+- Imperial and Rebel Spire House Deeds!
 
 Whether you serve the Emperor or support the Rebellion, there's action for all!
 
