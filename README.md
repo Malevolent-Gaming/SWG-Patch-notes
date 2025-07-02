@@ -50,7 +50,7 @@ Made some changes to help improve the player experience
 *You don't have to worry about logging in your alts every 90 days now. *
 ## Discord 
 - Added a new channel. Head to #swg-space-chat to talk all things space!
-
+-------------------------------------------------------------------------------
 
 # Website Feature Added
 ## Ancient Empire Active/Depleted Resource list Added!!
@@ -66,9 +66,7 @@ Now everyone can see which resources are spawned on our server!
 - Active / Depleted Resources
 
 You will also find that resource quality numbers will be colored. Red for bad, Orange for decent, and green for good!
-
-
-
+-------------------------------------------------------------------------------
 
 # Update 0.1.0
 ## Client Changes
