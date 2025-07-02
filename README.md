@@ -2,7 +2,6 @@
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
-![image](https://github.com/user-attachments/assets/37e66f96-5bd9-48ce-b308-2108fb96ec3c)
 
 
 # EMPIRE DAY IS HERE! 
