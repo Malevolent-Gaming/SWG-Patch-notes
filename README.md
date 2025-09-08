@@ -3,18 +3,18 @@
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
 
-# 9/8 - Update 0.1.2
-## Fixes
+## 9/8 - Update 0.1.2
+### Fixes
 - Fixed an issue with the client sound not working. 
 -------------------------------------------------------------------------------
 
-# 7/1 - EMPIRE DAY IS HERE! 
+## 7/1 - EMPIRE DAY IS HERE! 
 A long-standing tradition of Imperial might and galactic pride!
 
 Join us  as we celebrate Empire Day, the anniversary of the Emperor’s rise to power!
 From the bustling plazas of Theed to the dark corridors of Coronet, Imperial banners fly high and fireworks light up the night sky.
 
-## Activities Include:
+### Activities Include:
 - Imperial & Rebel-themed quests
 - Exclusive Empire Day rewards
 - XP bonuses and rare loot
@@ -22,7 +22,7 @@ From the bustling plazas of Theed to the dark corridors of Coronet, Imperial ban
 - Live fireworks shows in major cities
 - Imperial PR droids handing out loyalty missions
 
-## NEW Rewards!
+### NEW Rewards!
 - Imperial & Rebel BARC speeders!
 - Imperial and Rebel Spire House Deeds!
 
