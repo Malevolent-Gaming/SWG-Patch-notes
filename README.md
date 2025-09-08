@@ -6,6 +6,7 @@
 # 9/8 - Update 0.1.2
 ## Fixes
 - Fixed an issue with the client sound not working. 
+-------------------------------------------------------------------------------
 
 # 7/1 - EMPIRE DAY IS HERE! 
 A long-standing tradition of Imperial might and galactic pride!
