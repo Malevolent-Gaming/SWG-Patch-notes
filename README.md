@@ -34,54 +34,54 @@ Put on your uniforms, polish your armor, and prepare for glory!
 ### Long live the Empire!
 -------------------------------------------------------------------------------
 
-# 6/11 - New client now available with our Launcher!
+## 6/11 - New client now available with our Launcher!
 This launcher will now allow us to be able to add client side changes so we can start adding new features to your clients!
 @Mannax and I have put in a TON of time working on this launcher and are very excited to finally release it 🙂
 
-## SWG Page Features
+### SWG Page Features
 - Server Status and Player Count
 - Update Notes
 - "Settings" button to configure in-game settings
 - "Verify Files" button to rescan files that may have been corrupt or deleted
 
-## Client Changes
+### Client Changes
 New Login/Character screen background!
 ILM Sounds, Animations, and Music .TRE's enabled! (Texture and UI's are disabled for now. New settings button will be added to enable/disable them.)
 
-## Launcher Support - Discord
+### Launcher Support - Discord
 - Issues can be posted in ⁠🧰launcher-support. Please be as descriptive as possible and include any screenshots of errors or issues you run into.
 -------------------------------------------------------------------------------
 
-# 5/25 - Update 0.1.1
-## Quality of Life changes
+## 5/25 - Update 0.1.1
+### Quality of Life changes
 Made some changes to help improve the player experience
-## Buffs
+### Buffs
 - Medic and Entertainer Buffs now persist after death!
 *Still working on making Entertainer Buffs last after logout*
-## Loot
+### Loot
 - Increased collection drop rate on force NPCs by about 20%
 *This effects the Sith and Jedi holocrons for the Waist-pack and Meditate ability drop rate as well as some housing storage collections and the shattered crystal collection *
-## Crafting
+### Crafting
 - Increased Reverse Engineer bit multiplier to 3.0
 *This should help get to 35 easier*
-## World
+### World
 - Restuss has been enabled and set to phase 3
 *If we end up getting a PvP scene, I will change it back to the proper rotation of phases. *
-## Player Cities
+### Player Cities
 - Set the inactive citizen timer to flag a character after 365 days instead of 90
 *You don't have to worry about logging in your alts every 90 days now. *
-## Discord 
+### Discord 
 - Added a new channel. Head to #swg-space-chat to talk all things space!
 -------------------------------------------------------------------------------
 
-# 4/16 - Website Feature Added
-## Ancient Empire Active/Depleted Resource list Added!!
+## 4/16 - Website Feature Added
+### Ancient Empire Active/Depleted Resource list Added!!
 https://malevolentmultiverse.com/swg/swg-resources/
 
 We don't need GalaxyHarvester or SWGAide 
 Now everyone can see which resources are spawned on our server!
 
-## Filters include:
+### Filters include:
 - Name Search
 - Planet
 - Resource Type
@@ -90,8 +90,8 @@ Now everyone can see which resources are spawned on our server!
 You will also find that resource quality numbers will be colored. Red for bad, Orange for decent, and green for good!
 -------------------------------------------------------------------------------
 
-# 3/12 - Update 0.1.0
-## Client Changes
+## 3/12 - Update 0.1.0
+### Client Changes
 To get these changes, start the launcher and run the update.
 - Updated the client with the HD Map Packs.
 - Fixed bug that caused waypoints not to show up in datapad
