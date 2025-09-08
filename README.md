@@ -3,8 +3,11 @@
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
 
+# 9/8 - Update 0.1.2
+## Fixes
+- Fixed an issue with the client sound not working. 
 
-# EMPIRE DAY IS HERE! 
+# 7/1 - EMPIRE DAY IS HERE! 
 A long-standing tradition of Imperial might and galactic pride!
 
 Join us  as we celebrate Empire Day, the anniversary of the Emperor’s rise to power!
@@ -30,7 +33,25 @@ Put on your uniforms, polish your armor, and prepare for glory!
 ### Long live the Empire!
 -------------------------------------------------------------------------------
 
-# Update 0.1.1
+# 6/11 - New client now available with our Launcher!
+This launcher will now allow us to be able to add client side changes so we can start adding new features to your clients!
+@Mannax and I have put in a TON of time working on this launcher and are very excited to finally release it 🙂
+
+## SWG Page Features
+- Server Status and Player Count
+- Update Notes
+- "Settings" button to configure in-game settings
+- "Verify Files" button to rescan files that may have been corrupt or deleted
+
+## Client Changes
+New Login/Character screen background!
+ILM Sounds, Animations, and Music .TRE's enabled! (Texture and UI's are disabled for now. New settings button will be added to enable/disable them.)
+
+## Launcher Support - Discord
+- Issues can be posted in ⁠🧰launcher-support. Please be as descriptive as possible and include any screenshots of errors or issues you run into.
+-------------------------------------------------------------------------------
+
+# 5/25 - Update 0.1.1
 ## Quality of Life changes
 Made some changes to help improve the player experience
 ## Buffs
@@ -52,7 +73,7 @@ Made some changes to help improve the player experience
 - Added a new channel. Head to #swg-space-chat to talk all things space!
 -------------------------------------------------------------------------------
 
-# Website Feature Added
+# 4/16 - Website Feature Added
 ## Ancient Empire Active/Depleted Resource list Added!!
 https://malevolentmultiverse.com/swg/swg-resources/
 
@@ -68,7 +89,7 @@ Now everyone can see which resources are spawned on our server!
 You will also find that resource quality numbers will be colored. Red for bad, Orange for decent, and green for good!
 -------------------------------------------------------------------------------
 
-# Update 0.1.0
+# 3/12 - Update 0.1.0
 ## Client Changes
 To get these changes, start the launcher and run the update.
 - Updated the client with the HD Map Packs.
