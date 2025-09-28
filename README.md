@@ -3,7 +3,31 @@
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
 
-## 9/8 - Update 0.1.2
+
+# 9/27 - Update 0.2.0
+## Class Changes
+### Officer 
+- **Supply Drops cooldown reduced**   
+With full expertise, cooldown for each skill is 45 seconds. This is temporary until we can merge the 2 skills into one. For now it should be easier to get both stims and tactical stims from crates. 
+### Medic 
+- **Medic Buff duration increase**    
+Medic Buffs now last 3 hours after all 3 expertise points. And will be extended to 4.5 hours with the Heroic Jewelry
+- **Medic buffs persist after death**    
+Medic Buffs will now stick around after death. Now both Entertainer and Medic buffs should persist, allowing you to get right back into the action!
+## Player Changes
+- **Increase Bank and Inventory Size**    
+Increased bank slots to 500 and Player Inventory to 100
+## Crafting Changes
+### Food 
+- **Pyollian Cake and Bespin Port changes** 
+These foods will no longer be removed when crafting. Buff effect will remain for full food duration.
+### Factories
+- **Reduction in factory crafting times ** 
+Reduced the time that is required to craft by complexity by 75%
+
+-------------------------------------------------------------------------------
+
+# 9/8 - Update 0.1.2
 ### Fixes
 - Fixed an issue with the client sound not working. 
 -------------------------------------------------------------------------------
@@ -34,7 +58,7 @@ Put on your uniforms, polish your armor, and prepare for glory!
 ### Long live the Empire!
 -------------------------------------------------------------------------------
 
-## 6/11 - New client now available with our Launcher!
+# 6/11 - New client now available with our Launcher!
 This launcher will now allow us to be able to add client side changes so we can start adding new features to your clients!
 @Mannax and I have put in a TON of time working on this launcher and are very excited to finally release it 🙂
 
@@ -52,7 +76,7 @@ ILM Sounds, Animations, and Music .TRE's enabled! (Texture and UI's are disabled
 - Issues can be posted in ⁠🧰launcher-support. Please be as descriptive as possible and include any screenshots of errors or issues you run into.
 -------------------------------------------------------------------------------
 
-## 5/25 - Update 0.1.1
+# 5/25 - Update 0.1.1
 ### Quality of Life changes
 Made some changes to help improve the player experience
 ### Buffs
@@ -74,7 +98,7 @@ Made some changes to help improve the player experience
 - Added a new channel. Head to #swg-space-chat to talk all things space!
 -------------------------------------------------------------------------------
 
-## 4/16 - Website Feature Added
+# 4/16 - Website Feature Added
 ### Ancient Empire Active/Depleted Resource list Added!!
 https://malevolentmultiverse.com/swg/swg-resources/
 
@@ -90,7 +114,7 @@ Now everyone can see which resources are spawned on our server!
 You will also find that resource quality numbers will be colored. Red for bad, Orange for decent, and green for good!
 -------------------------------------------------------------------------------
 
-## 3/12 - Update 0.1.0
+# 3/12 - Update 0.1.0
 ### Client Changes
 To get these changes, start the launcher and run the update.
 - Updated the client with the HD Map Packs.
