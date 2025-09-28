@@ -19,10 +19,10 @@ Medic Buffs will now stick around after death. Now both Entertainer and Medic bu
 Increased bank slots to 500 and Player Inventory to 100
 ## Crafting Changes
 ### Food 
-- **Pyollian Cake and Bespin Port changes** 
+- **Pyollian Cake and Bespin Port changes**    
 These foods will no longer be removed when crafting. Buff effect will remain for full food duration.
 ### Factories
-- **Reduction in factory crafting times**
+- **Reduction in factory crafting times**   
 Reduced the time that is required to craft by complexity by 75%
 
 -------------------------------------------------------------------------------
