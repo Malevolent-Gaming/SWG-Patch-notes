@@ -2,7 +2,20 @@
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
-
+## Update 0.2.2
+Pushing out the changes I've made so far. I did not want to wait to add other stuff, so this will be a smaller update. 
+New update should have hit your launchers, if you don't get prompted to update, then do a verify files and you should be good. 
+## New Buff Terminals
+- Medic buff terminals have been added to player hospitals.
+- Entertainer buff terminals have been added to player cantina's. (You must spend all entertainer points for the buff to stick)
+***Currently bugged - showing entertainer buff but stats are not being added to character***
+## Crafting Changes
+- Sockets have been added to Jewelry. Only base clothing attachments can be added, no exotics. 
+- Reduced the resource cost of all BM components and schematics by 50%
+## Other Changes
+- Max group size increased to 12 
+***(Currently only 9 characters can be seen in party window, anything past that wont show. Fix is W.I.P)***
+-------------------------------------------------------------------------------
 ## Update 0.2.1
 Several of these changes were requested features in **#💡swg-suggestions** channel on **Discord**. I highly encourage everyone to submit suggestions that would make for a better player experience!
 ## General Changes
