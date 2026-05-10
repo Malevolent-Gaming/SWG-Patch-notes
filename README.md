@@ -2,7 +2,7 @@
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/eec05ba8-535d-4bf4-8a27-72c15ff40ce5"/>
 </p!> -->
-## Update v0.3.0 
+<h1 align="center">Update v0.3.0</h1>
 ### New Species Arrivals
 Expand your legacy with three iconic new species additions:
 - **Chiss:** Now available for both Male and Female characters.
