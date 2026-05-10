@@ -12,7 +12,7 @@ Expand your legacy with three iconic new species additions:
 - **Togruta:** Available for Female characters.
 ### Housing & Player Cities
 - **Account-Based Rights**: Structures and Harvesters now feature account-wide admin permissions.
-- **Bazaar Terminals: **Now available as decorations for Player Cities.
+- **Bazaar Terminals:** Now available as decorations for Player Cities.
 - **Private Banking:** Bank Terminals can now be placed inside private player houses.
 ## New Currency: Corrupt Kyber Fragments
 A new vendor, Vora the Shard-Weaver, has appeared! Hunt down Corrupt Kyber Fragments within Heroic Encounters to trade for exclusive rewards.
