@@ -24,6 +24,7 @@ A new vendor, Vora the Shard-Weaver, has appeared! Hunt down Corrupt Kyber Fragm
 - **Veteran Rewards Fixed:** The system is fully debugged! Claim your tenure items via the rewards window.
 - **Level 90 Holocron Boost**: Every account now receives one (1) Level 90 boost.
 - **GCW Gear Changes:** Removed "No-Trade" and "Bio-Link" from all GCW Weapons/Armor. Deconstruction is now enabled for these items.
+- **/Forage Rework:** Removed the requirement to move with /forage but created a 30 second cooldown on the command.
 ### Client Enhancements
 - **3rd Row Toolbar:** The highly requested extra toolbar is finally here!
 - **Immersive Quest UI:** New quest dialogue now features NPC avatars. This system will be the standard for all upcoming chapter and class quests.
