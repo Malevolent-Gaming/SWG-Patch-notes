@@ -20,20 +20,20 @@ A new vendor, Vora the Shard-Weaver, has appeared! Hunt down Corrupt Kyber Fragm
 - **50k Resource Deeds:** Bulk resources for the master crafter.
 - **TCG Loot:** A massive selection of Trading Card Game items.
 ### Systems & Quality of Life
-- **Jedi Meditate Buff Selector: **A new selection window allows you to choose your specific Meditate buff.
+- **Jedi Meditate Buff Selector:** A new selection window allows you to choose your specific Meditate buff.
 - **Veteran Rewards Fixed:** The system is fully debugged! Claim your tenure items via the rewards window.
 - **Level 90 Holocron Boost**: Every account now receives one (1) Level 90 boost.
 - **GCW Gear Changes:** Removed "No-Trade" and "Bio-Link" from all GCW Weapons/Armor. Deconstruction is now enabled for these items.
 ### Client Enhancements
 - **3rd Row Toolbar:** The highly requested extra toolbar is finally here!
-- **Immersive Quest UI: **New quest dialogue now features NPC avatars. This system will be the standard for all upcoming chapter and class quests.
+- **Immersive Quest UI:** New quest dialogue now features NPC avatars. This system will be the standard for all upcoming chapter and class quests.
 ### Bug Fixes
 - **Entertainer Buff Terminals:** Replaced the old menu with the authentic Buff Builder UI. Buffs now apply correctly.
 - **Anniversary Painting:** Now available! This item will be obtainable for one month following the update.
 ### Developer & Backend Notes
 We’ve launched the Malevolent Gaming Admin Panel, a custom suite of tools that allows us to build the world faster than ever:
 - **Live Quest Deployment:** Our new backend allows us to create and deploy quests live without server restarts or client patches.
-- **In-Game Editors: **New tools for NPC creation, item generation, and quest-chain editing are now active, ensuring more frequent content updates for the community.
+- **In-Game Editors:** New tools for NPC creation, item generation, and quest-chain editing are now active, ensuring more frequent content updates for the community.
 
 ### With every big update, there might be some new bugs. Please submit all bug reports to #🧰swg-support.
 -------------------------------------------------------------------------------
