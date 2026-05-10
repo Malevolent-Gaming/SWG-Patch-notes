@@ -14,7 +14,7 @@ Expand your legacy with three iconic new species additions:
 - **Account-Based Rights**: Structures and Harvesters now feature account-wide admin permissions.
 - **Bazaar Terminals:** Now available as decorations for Player Cities.
 - **Private Banking:** Bank Terminals can now be placed inside private player houses.
-## New Currency: Corrupt Kyber Fragments
+### New Currency: Corrupt Kyber Fragments
 A new vendor, Vora the Shard-Weaver, has appeared! Hunt down Corrupt Kyber Fragments within Heroic Encounters to trade for exclusive rewards.
 - **Heroic Prequest Unlocks**: Skip the grind and jump into the action.
 - **50k Resource Deeds:** Bulk resources for the master crafter.
